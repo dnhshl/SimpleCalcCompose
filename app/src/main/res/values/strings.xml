@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleCalc</string>
+
+    <string name="error_message">Bitte geben Sie Integer Zahlen in die Eingabefelder ein.</string>
+
+
+</resources>
